@@ -98,13 +98,13 @@ $ npm start
 ## Mobile  
 
 <p align="center"> 
-    <a target="_blank"> <img src="https://user-images.githubusercontent.com/44928849/83918375-fd77dc80-a74e-11ea-9c73-77f280b36b4b.PNG" width="400px" heigth="1100px" </a>
+    <a target="_blank"> <img src="https://user-images.githubusercontent.com/44928849/83918375-fd77dc80-a74e-11ea-9c73-77f280b36b4b.PNG" width="400px" heigth="900px" </a>
  </p>  
   <p align="center"> 
-     <a target="_blank"> <img src="https://user-images.githubusercontent.com/44928849/83918268-c3a6d600-a74e-11ea-8d66-7cf78e517d05.PNG" width="700px" heigth="1100px" </a>
+     <a target="_blank"> <img src="https://user-images.githubusercontent.com/44928849/83918391-04065400-a74f-11ea-8a12-30179c0d1025.PNG" width="400px" heigth="900px" </a>
     </p>
   <p align="center"> 
-      <a target="_blank"> <img src="https://user-images.githubusercontent.com/44928849/83918272-c43f6c80-a74e-11ea-972b-ae760f0a483d.PNG" width="700px" heigth="1100px" </a>
+      <a target="_blank"> <img src="https://user-images.githubusercontent.com/44928849/83918404-08cb0800-a74f-11ea-88b7-e3816de17d42.PNG" width="400px" heigth="900px" </a>
     </p>
 
 
