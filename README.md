@@ -15,7 +15,7 @@
 
 ## :exclamation: Sobre o Projeto:
 
-<p> Next Level Weeb é um projeto da empresa <a href="https://rocketseat.com.br/"> RocketSeat </a> onde aborda uma imersão de uma semana nas linguagens ReactJS, ReactNative e NodeJS. O Projeto é a evolução da Semana Omni Stack, que também era promovida pela própria empresa.  </p>
+<p> Next Level Weeb é um projeto da empresa <a target="_blank" href="https://rocketseat.com.br/"> RocketSeat </a> onde aborda uma imersão de uma semana nas linguagens ReactJS, ReactNative e NodeJS. O Projeto é a evolução da Semana Omni Stack, que também era promovida pela própria empresa.  </p>
 
 ## :computer: Tecnologias Usadas:
 
@@ -110,4 +110,4 @@ $ npm start
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-Projeto realizado na next level week da <a href="https://rocketseat.com.br/"> RocketSeat </a>. by <a href="https://www.linkedin.com/in/andrey-resende/"> Andrey Resende </a>
+Projeto realizado na next level week da <a target="_blank" href="https://rocketseat.com.br/"> RocketSeat </a>. by <a href="https://www.linkedin.com/in/andrey-resende/"> Andrey Resende </a>
