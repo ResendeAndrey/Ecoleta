@@ -27,3 +27,56 @@
 - [TypeScript](https://www.typescriptlang.org/)
 
 
+## :paperclip: Como Utilizar:
+
+<p> Faça o clone do repositório. </p>
+<p> É necessário que você tenha o NodeJs instalado </p>
+
+
+### Instalação do Backend 
+
+```bash
+$ cd nlw-1.0/backend
+
+$ npm install
+
+# Faça a carga das Migrates
+$ npm run knex:migrate
+
+# Faça a carga dos Seeds
+$ npm run knex:seed
+
+$ npm run dev
+
+```
+
+### Instalação do Front-end
+
+```
+$ cd nlw-1.0/frontent
+
+$ npm install
+
+$ npm start
+
+
+```
+
+### Instalação da parte Mobile
+
+```bash
+
+
+$ cd nlw-1.0/mobile
+
+$ npm install
+
+$ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
+
+$ npm start
+
+# O Expo abrirá automaticamente. Você pode escanear o QRcode com a camera do seu celular ou abrir e emular pelo Android Studio.
+
+
+```
+
