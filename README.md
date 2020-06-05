@@ -7,11 +7,22 @@
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
-  <img src="https://camo.githubusercontent.com/a47cc6a6b74e0edbba2a73d2f727eaf4ccd1d855/68747470733a2f2f696e736f6d6e69612e726573742f696d616765732f72756e2e737667" >
+
 </p>
 <p align="center">
-  <img alt="ReactJS e NodeJS" src="https://hackernoon.com/hn-images/1*-NOQtyJAGQ1RNC3iVt_thA.png" width="140px" height="70px">
+    <img src="https://camo.githubusercontent.com/a47cc6a6b74e0edbba2a73d2f727eaf4ccd1d855/68747470733a2f2f696e736f6d6e69612e726573742f696d616765732f72756e2e737667" >
+</p>
 
-  <img alt="React Native" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" width="60px" height="60px">
-  </p>
+## :exclamation: Sobre o Projeto:
+
+<p> Next Level Weeb é um projeto da empresa <a href="www.rocketset.com.br"> RocketSeat </a> onde aborda uma imersão de uma semana nas linguagens ReactJS, ReactNative e NodeJS. O Projeto é a evolução da Semana Omni Stack, que também era promovida pela própria empresa.  </p>
+
+## :computer: Tecnologias Usadas:
+
+- [Node.js][nodejs]
+- [TypeScript][typescript]
+- [React][reactjs]
+- [React Native][rn]
+- [Expo][expo]
+
 
