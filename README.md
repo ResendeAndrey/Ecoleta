@@ -89,10 +89,10 @@ $ npm start
     <a target="_blank"> <img src="https://user-images.githubusercontent.com/44928849/83917961-251a7500-a74e-11ea-9c12-da25da3c51cf.PNG" width="700px" heigth="1100px" </a>
  </p>  
   <p align="center"> 
-     <a target="_blank"> <img src="https://user-images.githubusercontent.com/44928849/83917961-251a7500-a74e-11ea-9c12-da25da3c51cf.PNG" width="700px" heigth="1100px" </a>
+     <a target="_blank"> <img src="https://user-images.githubusercontent.com/44928849/83918268-c3a6d600-a74e-11ea-8d66-7cf78e517d05.PNG" width="700px" heigth="1100px" </a>
     </p>
   <p align="center"> 
-      <a target="_blank"> <img src="https://user-images.githubusercontent.com/44928849/83917961-251a7500-a74e-11ea-9c12-da25da3c51cf.PNG" width="700px" heigth="1100px" </a>
+      <a target="_blank"> <img src="https://user-images.githubusercontent.com/44928849/83918272-c43f6c80-a74e-11ea-972b-ae760f0a483d.PNG" width="700px" heigth="1100px" </a>
     </p>
 
 
