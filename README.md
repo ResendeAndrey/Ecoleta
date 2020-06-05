@@ -87,11 +87,13 @@ $ npm start
 
 <p align="center"> 
     <a target="_blank"> <img src="https://user-images.githubusercontent.com/44928849/83917961-251a7500-a74e-11ea-9c12-da25da3c51cf.PNG" width="700px" heigth="1100px" </a>
-    
+ </p>  
+  <p align="center"> 
      <a target="_blank"> <img src="https://user-images.githubusercontent.com/44928849/83917961-251a7500-a74e-11ea-9c12-da25da3c51cf.PNG" width="700px" heigth="1100px" </a>
-     
+    </p>
+  <p align="center"> 
       <a target="_blank"> <img src="https://user-images.githubusercontent.com/44928849/83917961-251a7500-a74e-11ea-9c12-da25da3c51cf.PNG" width="700px" heigth="1100px" </a>
-</p>
+    </p>
 
 
 
