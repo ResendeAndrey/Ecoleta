@@ -11,9 +11,3 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-10">
   
 </p>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/44928849/77786198-2471ae00-703c-11ea-9680-19ad8b4ff90e.PNG"/>
-
-<img src="https://user-images.githubusercontent.com/44928849/77786260-43704000-703c-11ea-80a8-126d3fffbbcf.PNG" />
-</p>
