@@ -9,7 +9,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
 </p>
 <p align="center">
-  <img alt="ReactJS e NodeJS" src="https://hackernoon.com/hn-images/1*-NOQtyJAGQ1RNC3iVt_thA.png" width="100px" height="60px">
+  <img alt="ReactJS e NodeJS" src="https://hackernoon.com/hn-images/1*-NOQtyJAGQ1RNC3iVt_thA.png" width="140px" height="70px">
 
   <img alt="React Native" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" width="60px" height="60px">
   </p>
