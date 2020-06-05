@@ -7,6 +7,7 @@
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
+  <img src="https://camo.githubusercontent.com/a47cc6a6b74e0edbba2a73d2f727eaf4ccd1d855/68747470733a2f2f696e736f6d6e69612e726573742f696d616765732f72756e2e737667" >
 </p>
 <p align="center">
   <img alt="ReactJS e NodeJS" src="https://hackernoon.com/hn-images/1*-NOQtyJAGQ1RNC3iVt_thA.png" width="140px" height="70px">
